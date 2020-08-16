@@ -1,0 +1,20 @@
+1.https://www.youtube.com/watch?v=VPVzx1ZOVuw
+-https://www.youtube.com/watch?v=-9M9CGSd69I&t=1936s
+
+2.axios
+-material-ui
+
+3.Google apis
+-api credentials(key+url)
+-axios create,param for url part.
+-index.js(contains all export default helps to import in one line).
+-prevent.default(only refreshes form)
+
+4.axios.create
+-index.js(for exports)
+-search(call submit)
+-videdetail($,iframe)
+-videolist(onvideoselect)	
+-videoitem(video.snippet.thumbnails.medium.url)	
+-app.js(.get(search/api_key/item)
+-index.js(queryselector)
